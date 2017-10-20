@@ -19,12 +19,10 @@
     },
     "keywords": [
         "atom",
-        "theme",
-        "dark",
-        "one dark",
         "markdown",
-        "preview",
-        "css"
+        "theme",
+        "one dark",
+        "preview"
     ],
     "bugs": {
         "url": "https://github.com/raycon/vscode-markdown-theme-one-dark/issues",
