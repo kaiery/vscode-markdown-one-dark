@@ -1,6 +1,6 @@
-# Markdown Theme - One Dark
+# Markdown Preview Theme - One Dark
 
-VSCode Theme based on Atom's One Dark theme.
+VSCode Markdown Preview Theme based on Atom's One Dark theme.
 
 Inspired by :
 
