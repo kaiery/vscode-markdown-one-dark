@@ -1,0 +1,19 @@
+{
+    "name": "Markdown Theme - One Dark",
+    "displayName": "Markdown theme based on Atom's One Dark theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "raegon",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Other"
+    ],
+    "contributes": {
+        "markdown.previewStyles": [
+            "./css/onedark.css"
+        ]
+    }
+}
