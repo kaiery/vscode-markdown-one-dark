@@ -1,7 +1,7 @@
 {
-    "name": "Markdown Theme - One Dark",
-    "displayName": "Markdown theme based on Atom's One Dark theme",
-    "description": "",
+    "name": "markdown-theme-one-dark",
+    "displayName": "Markdown Theme - One Dark",
+    "description": "Markdown theme based on Atom's One Dark theme",
     "version": "0.0.1",
     "publisher": "raegon",
     "license": "MIT",
