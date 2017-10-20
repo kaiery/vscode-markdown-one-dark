@@ -25,12 +25,12 @@
         "preview"
     ],
     "bugs": {
-        "url": "https://github.com/raycon/vscode-markdown-theme-one-dark/issues",
+        "url": "https://github.com/raycon/vscode-markdown-one-dark/issues",
         "email": "raegon@gmail.com"
     },
-    "homepage": "https://github.com/raycon/vscode-markdown-theme-one-dark",
+    "homepage": "https://github.com/raycon/vscode-markdown-one-dark",
     "repository": {
         "type": "git",
-        "url": "https://github.com/raycon/vscode-markdown-theme-one-dark"
+        "url": "https://github.com/raycon/vscode-markdown-one-dark"
     }
 }
