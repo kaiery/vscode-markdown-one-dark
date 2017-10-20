@@ -16,5 +16,23 @@
         "markdown.previewStyles": [
             "./css/onedark.css"
         ]
+    },
+    "keywords": [
+        "atom",
+        "theme",
+        "dark",
+        "one dark",
+        "markdown",
+        "preview",
+        "css"
+    ],
+    "bugs": {
+        "url": "https://github.com/raycon/vscode-markdown-theme-one-dark/issues",
+        "email": "raegon@gmail.com"
+    },
+    "homepage": "https://github.com/raycon/vscode-markdown-theme-one-dark",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/raycon/vscode-markdown-theme-one-dark"
     }
 }
